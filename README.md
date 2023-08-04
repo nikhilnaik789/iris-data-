@@ -1,5 +1,6 @@
-kNN From Scratch
-🔗 Introduction
+# kNN From Scratch
+
+🔗Introduction
 This repository consists of code and example implementations for my medium article on building k-Nearest Neighbors from scratch and evaluating it using k-Fold Cross validation which is also built from scratch
 
 For PyPI package version please refer to this repository
