@@ -23,7 +23,9 @@ This technique involves randomly dividing the dataset into k-groups or folds of 
 The datasets used here are taken from UCI Machine Learning Repository
 ## Applying LabelEncoder on entire dataframe
 `from sklearn import preprocessing`
+
 `df = pd.DataFrame(data)`
+
 `df = df.apply(preprocessing.LabelEncoder().fit_transform)`
 
 
